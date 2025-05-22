@@ -1,6 +1,6 @@
 # Hi there, I'm Ori! 👋
 
-🎨 **3D Designer** dari Indonesia dengan spesialisasi di **Blender**  
+🎨 **3D Designer** dari Indonesia, spesialisasi di **Blender**  
 ☕ Penikmat kopi & gaya hidup santuy  
 🌏 Tertarik untuk terjun dan berkembang di dunia **Web3**  
 🔗 [ArtStation Portfolio](https://www.artstation.com/yuhori_kertadiwangsa)
@@ -23,12 +23,17 @@
 ## 📌 Featured Projects
 
 - [Portfolio di ArtStation](https://www.artstation.com/yuhori_kertadiwangsa)
-- *Tambahkan proyek GitHub atau showcase lain di sini!*
+- [yuhori88 (Rust)](https://github.com/Ori888-ux/yuhori88)
+- [token-list (forked from solana-labs)](https://github.com/Ori888-ux/token-list)
+- [solana-playground (forked)](https://github.com/Ori888-ux/solana-playground)
+- [smart-coder-chat (forked)](https://github.com/Ori888-ux/smart-coder-chat)
+- *Tambah project lain yang ingin kamu highlight di sini!*
 
 ## 📫 Let's Connect
 
 - [ArtStation](https://www.artstation.com/yuhori_kertadiwangsa)
 - [GitHub](https://github.com/Ori888-ux)
+- Email: hori@bureau.live  
 - *Feel free to connect or just say hi!*
 
 ---
